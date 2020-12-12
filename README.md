@@ -107,7 +107,7 @@ Sou desenvolvedor de sistemas formado e técnico em mecatrônica. CEO do departa
 
 [LinkedIn](https://www.linkedin.com/in/thiago-c-621365175/)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
-[Facebook](https://www.facebook.com/Stdio.comunicacao/)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+[Facebook](https://www.facebook.com/Stdio.comunicacao/) [<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/Stdio.comunicacao/)
 
 [Github](https://github.com/ThiagoStdio)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 
