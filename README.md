@@ -93,7 +93,7 @@ Sou desenvolvedor de sistemas formado e técnico em mecatrônica. CEO do departa
 
 # :ghost: Cartão Visita
 
-<img align="center" alt="ThiagoStdio | Card " width="700px" src="https://github.com/ThiagoStdio/ThiagoStdio/blob/master/assets/catsa.jpg?raw=true" />
+<div><img align="center" alt="ThiagoStdio | Card " width="700px" src="https://github.com/ThiagoStdio/ThiagoStdio/blob/master/assets/catsa.jpg?raw=true" /></div>
 
 <br/>
 <br/>
