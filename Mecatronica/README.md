@@ -38,11 +38,12 @@
 </details>
 
 <br/>
+---
 
 # [Download](https://drive.google.com/drive/folders/1P9PkdsAP_MCHKnIdau0z9UDQKUVzwnxx?usp=sharing)
 
 ---
----
+
 
 # Projetos Contidos Aqui
 
